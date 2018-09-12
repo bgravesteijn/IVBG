@@ -7,5 +7,5 @@ Maintainer: Benjamin Gravesteijn <b.gravesteijn@erasmusmc.nl>
 Description: Functions in order to perform instrumental variable analysis. 
 License: GPL-2
 Encoding: UTF-8
-Depends: rms, HMisc
+Depends: rms, Hmisc
 RoxygenNote: 6.1.0
